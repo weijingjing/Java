@@ -22,6 +22,7 @@ public class Telphone {
 
     public void setScreen(float screen) {
         this.screen = screen;
+        //调用了sendMessage() 方法
         this.sendMessage();
     }
 
