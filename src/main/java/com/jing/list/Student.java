@@ -6,5 +6,5 @@ package com.jing.list;
 public class Student {
     public int id;
     public String name;
-    public Course
+    public Course course;
 }
